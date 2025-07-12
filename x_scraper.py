@@ -10,9 +10,8 @@ from pymongo import MongoClient
 load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-#Update these with your actual X account credentials
-USERNAME = "*****"
-PASSWORD = "*****"
+USERNAME = "ShivamaniG34885"
+PASSWORD = "Shivamani@26"
 
 def login_to_x(page):
     print("🔐 Logging in...")

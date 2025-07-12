@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+.venv/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+
+# Playwright cache
+playwright/.cache/
+playwright-report/
+
+
+
